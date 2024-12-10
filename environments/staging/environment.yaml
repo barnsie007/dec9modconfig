@@ -110,7 +110,7 @@ app:
   # can change and might not be unique.
   services:
     - crn: 'crn:v1:bluemix:public:mqcloud:us-east:a/26a5e866a11a5014f2eca2acab86f048:123019ac-5871-4f20-8e10-1207b38721fc::'
-    #- crn: 'crn:v1:bluemix:public:dashdb-for-transactions:us-east:a/26a5e866a11a5014f2eca2acab86f048:f1342721-a485-4d0e-9845-98b70884ed7d::'
-    - crn: 'crn:v1:bluemix:public:resource-controller::a/26a5e866a11a5014f2eca2acab86f048::resource-group:81571131d0db4e5585f62b95ae75eb3a'
+    - crn: 'crn:v1:bluemix:public:dashdb-for-transactions:us-east:a/26a5e866a11a5014f2eca2acab86f048:f1342721-a485-4d0e-9845-98b70884ed7d::'
+    
   #- name: "my Db2 instance"
   #  type: db2
