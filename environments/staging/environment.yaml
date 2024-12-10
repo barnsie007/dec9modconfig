@@ -69,7 +69,7 @@ app:
     - name: io_openliberty_sample_system_inMaintenance
       value: "false"
     - name: DB2_Universal_JDBC_Driver_XA_DataSource_ghettoes1Node01Cell_DataSource_1724255898616_databaseName
-      value: "bludb"
+      value: "BLUDB"
     - name: MQ_ghettoes1Node01Cell_MQQueueConnectionFactory_1724680626143_port
       value: "443"
     - name: MQ_ghettoes1Node01Cell_MQQueueConnectionFactory_1724680626143_channel
